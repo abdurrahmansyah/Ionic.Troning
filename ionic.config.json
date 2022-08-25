@@ -1,0 +1,7 @@
+{
+  "name": "troning",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
